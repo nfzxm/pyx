@@ -72,7 +72,7 @@ to, for instance, display the number of connected players.
   <li>This game was extensively tested in <a href="http://google.com/chrome">Google Chrome</a>.
   It should work in all recent versions of major browsers, but it may not look 100% as intended. If
   you find a major issue, please
-  <a href="https://github.com/ajanata/PretendYoureXyzzy/issues/new">open a bug on GitHub</a> with a
+  <a href="https://github.com/nfzxm/pyx/issues/new">open a bug on GitHub</a> with a
   screenshot and the name and version of the browser you are using, and I'll try to fix it.
   </li>
   <li>You may not always see your card in the top area after you play it, but it has been played.
@@ -117,7 +117,7 @@ to, for instance, display the number of connected players.
 <p>
   If the game seems to be in a weird state, refresh the page and it should take you back to where
   you were. It would be helpful to take a screenshot and include it in a
-  <a href="https://github.com/ajanata/PretendYoureXyzzy/issues/new">new bug on GitHub</a> along with
+  <a href="https://github.com/nfzxm/pyx/issues/new">new bug on GitHub</a> along with
   a general description of the problem and the time that it happened (include a time zone please!).
 </p>
 <p>
@@ -131,7 +131,7 @@ to, for instance, display the number of connected players.
   <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons - Attribution -
   Noncommercial - Share Alike license</a>. This web version is in no way endorsed or sponsored by
   cardsagainsthumanity.com. You may download the source code to this version from
-  <a href="https://github.com/ajanata/PretendYoureXyzzy">GitHub</a>. For full license
+  <a href="https://github.com/nfzxm/pyx">GitHub</a>. For full license
   information, including information about included libraries, see the
   <a href="license.html">full license information</a>.
 </p>

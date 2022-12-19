@@ -814,7 +814,7 @@ cah.Game.prototype.removeCardcastDeck = function(data) {
 cah.Game.prototype.listCardcastDecks = function(cardSets) {
   cah.log.status_with_game(this, "The following <a target='_blank'"
       + " href='http://www.cardcastgame.com'>Cardcast</a> decks are in use in this game (<a"
-      + " target='_blank' href='https://github.com/ajanata/PretendYoureXyzzy/wiki/Cardcast'>"
+      + " target='_blank' href='https://github.com/nfzxm/pyx/wiki/Cardcast'>"
       + "instructions</a>):", 'admin', true);
   for ( var key in cardSets) {
     var cardSetData = cardSets[key];
